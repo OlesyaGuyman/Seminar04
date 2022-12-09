@@ -1,0 +1,15 @@
+/Users/olesagujman/Desktop/GB/C#/practic/Seminar04/24/obj/Debug/net7.0/24.csproj.AssemblyReference.cache
+/Users/olesagujman/Desktop/GB/C#/practic/Seminar04/24/obj/Debug/net7.0/24.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olesagujman/Desktop/GB/C#/practic/Seminar04/24/obj/Debug/net7.0/24.AssemblyInfoInputs.cache
+/Users/olesagujman/Desktop/GB/C#/practic/Seminar04/24/obj/Debug/net7.0/24.AssemblyInfo.cs
+/Users/olesagujman/Desktop/GB/C#/practic/Seminar04/24/obj/Debug/net7.0/24.csproj.CoreCompileInputs.cache
+/Users/olesagujman/Desktop/GB/C#/practic/Seminar04/24/bin/Debug/net7.0/24
+/Users/olesagujman/Desktop/GB/C#/practic/Seminar04/24/bin/Debug/net7.0/24.deps.json
+/Users/olesagujman/Desktop/GB/C#/practic/Seminar04/24/bin/Debug/net7.0/24.runtimeconfig.json
+/Users/olesagujman/Desktop/GB/C#/practic/Seminar04/24/bin/Debug/net7.0/24.dll
+/Users/olesagujman/Desktop/GB/C#/practic/Seminar04/24/bin/Debug/net7.0/24.pdb
+/Users/olesagujman/Desktop/GB/C#/practic/Seminar04/24/obj/Debug/net7.0/24.dll
+/Users/olesagujman/Desktop/GB/C#/practic/Seminar04/24/obj/Debug/net7.0/refint/24.dll
+/Users/olesagujman/Desktop/GB/C#/practic/Seminar04/24/obj/Debug/net7.0/24.pdb
+/Users/olesagujman/Desktop/GB/C#/practic/Seminar04/24/obj/Debug/net7.0/24.genruntimeconfig.cache
+/Users/olesagujman/Desktop/GB/C#/practic/Seminar04/24/obj/Debug/net7.0/ref/24.dll
